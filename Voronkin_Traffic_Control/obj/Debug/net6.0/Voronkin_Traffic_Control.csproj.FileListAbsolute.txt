@@ -1,0 +1,5 @@
+D:\Downloads\Projects\Voronkin_curse_project\Voronkin_Traffic_Control\Voronkin_Traffic_Control\obj\Debug\net6.0\Voronkin_Traffic_Control.csproj.AssemblyReference.cache
+D:\Downloads\Projects\Voronkin_curse_project\Voronkin_Traffic_Control\Voronkin_Traffic_Control\obj\Debug\net6.0\Voronkin_Traffic_Control.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Projects\Voronkin_curse_project\Voronkin_Traffic_Control\Voronkin_Traffic_Control\obj\Debug\net6.0\Voronkin_Traffic_Control.AssemblyInfoInputs.cache
+D:\Downloads\Projects\Voronkin_curse_project\Voronkin_Traffic_Control\Voronkin_Traffic_Control\obj\Debug\net6.0\Voronkin_Traffic_Control.AssemblyInfo.cs
+D:\Downloads\Projects\Voronkin_curse_project\Voronkin_Traffic_Control\Voronkin_Traffic_Control\obj\Debug\net6.0\Voronkin_Traffic_Control.csproj.CoreCompileInputs.cache
