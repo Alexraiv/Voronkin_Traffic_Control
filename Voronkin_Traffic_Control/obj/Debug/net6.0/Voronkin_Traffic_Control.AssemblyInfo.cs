@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Voronkin_Traffic_Control")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8b1acf0a3e70da349919cb4c9db92036056513e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Voronkin_Traffic_Control")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Voronkin_Traffic_Control")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,3 +3,35 @@ D:\Downloads\Projects\Voronkin_curse_project\Voronkin_Traffic_Control\Voronkin_T
 D:\Downloads\Projects\Voronkin_curse_project\Voronkin_Traffic_Control\Voronkin_Traffic_Control\obj\Debug\net6.0\Voronkin_Traffic_Control.AssemblyInfoInputs.cache
 D:\Downloads\Projects\Voronkin_curse_project\Voronkin_Traffic_Control\Voronkin_Traffic_Control\obj\Debug\net6.0\Voronkin_Traffic_Control.AssemblyInfo.cs
 D:\Downloads\Projects\Voronkin_curse_project\Voronkin_Traffic_Control\Voronkin_Traffic_Control\obj\Debug\net6.0\Voronkin_Traffic_Control.csproj.CoreCompileInputs.cache
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\bin\Debug\net6.0\Voronkin_Traffic_Control.exe
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\bin\Debug\net6.0\Voronkin_Traffic_Control.deps.json
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\bin\Debug\net6.0\Voronkin_Traffic_Control.runtimeconfig.json
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\bin\Debug\net6.0\Voronkin_Traffic_Control.dll
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\bin\Debug\net6.0\Voronkin_Traffic_Control.pdb
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\bin\Debug\net6.0\System.IO.Pipelines.dll
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\obj\Debug\net6.0\Voronkin_Traffic_Control.csproj.AssemblyReference.cache
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\obj\Debug\net6.0\Voronkin_Traffic_Control.GeneratedMSBuildEditorConfig.editorconfig
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\obj\Debug\net6.0\Voronkin_Traffic_Control.AssemblyInfoInputs.cache
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\obj\Debug\net6.0\Voronkin_Traffic_Control.AssemblyInfo.cs
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\obj\Debug\net6.0\Voronkin_Traffic_Control.csproj.CoreCompileInputs.cache
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\obj\Debug\net6.0\Voronkin_Traffic_Control.sourcelink.json
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\obj\Debug\net6.0\Voronkin.2C488D51.Up2Date
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\obj\Debug\net6.0\Voronkin_Traffic_Control.dll
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\obj\Debug\net6.0\refint\Voronkin_Traffic_Control.dll
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\obj\Debug\net6.0\Voronkin_Traffic_Control.pdb
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\obj\Debug\net6.0\Voronkin_Traffic_Control.genruntimeconfig.cache
+F:\дистанционка\5 КУРС\лабы\Програмирование\Курсовая\Voronkin_Traffic_Control\Voronkin_Traffic_Control\obj\Debug\net6.0\ref\Voronkin_Traffic_Control.dll

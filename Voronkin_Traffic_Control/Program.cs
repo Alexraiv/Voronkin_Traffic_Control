@@ -28,13 +28,13 @@ namespace AutomatedTrafficManagement
         static async Task Main(string[] args)
         {
             connection = new HubConnectionBuilder()
-                .WithUrl("https://localhost:7208/indicator")
+                .WithUrl("https://localhost:7045/indicator")
                 .Build();
 
             await connection.StartAsync();
 
             HttpClient client = new HttpClient();
-            client.BaseAddress = new Uri("https://localhost:7208/api/");
+            client.BaseAddress = new Uri("https://localhost:7045/api/");
             var result = await client.GetAsync("indicator");
             var content = await result.Content.ReadAsStringAsync();
 
