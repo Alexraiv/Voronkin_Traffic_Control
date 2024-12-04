@@ -8,6 +8,8 @@ namespace Voronkin_Traffic_Control.Enums
 {
     public enum SensorType
     {
-        CarSensor
+        CarSensor,
+        Temperature,
+        Humidity
     }
 }

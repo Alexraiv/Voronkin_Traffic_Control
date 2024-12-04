@@ -12,9 +12,7 @@ namespace Voronkin_Traffic_Control.Entities.Sensors
         public string Name { get; set; }
         public string Description { get; set; }
         public double Value { get; protected set; }
-
         public abstract SensorType Type { get; }
-
         public Sensor(string name, string description)
         {
             Name = name;
@@ -22,8 +20,5 @@ namespace Voronkin_Traffic_Control.Entities.Sensors
         }
 
         public abstract void ReadValue();
-
-       
-
     }
 }

@@ -46,10 +46,25 @@ namespace AutomatedTrafficManagement
 
             var sensorFactories = new Dictionary<string, Func<Sensor>>
             {
-                {"CarSensor1",() => new CarSensor("Number", "No description") },
-                {"CarSensor2",() => new CarSensor("Number", "No description") },
-                {"CarSensor3",() => new CarSensor("Number", "No description") },
-                {"CarSensor4",() => new CarSensor("Number", "No description") },
+                { "CarSensor1", () => new CarSensor("Number", "No description") },
+                { "CarSensor2", () => new CarSensor("Number", "No description") },
+                { "CarSensor3", () => new CarSensor("Number", "No description") },
+                { "CarSensor4", () => new CarSensor("Number", "No description") },
+                { "CarSensor5", () => new CarSensor("Number", "No description") },
+                { "CarSensor6", () => new CarSensor("Number", "No description") },
+                { "CarSensor7", () => new CarSensor("Number", "No description") },
+                { "CarSensor8", () => new CarSensor("Number", "No description") },
+                { "CarSensor9", () => new CarSensor("Number", "No description") },
+                { "CarSensor10", () => new CarSensor("Number", "No description") },
+                { "CarSensor11", () => new CarSensor("Number", "No description") },
+                { "CarSensor12", () => new CarSensor("Number", "No description") },
+                { "CarSensor13", () => new CarSensor("Number", "No description") },
+                { "CarSensor14", () => new CarSensor("Number", "No description") },
+                { "CarSensor15", () => new CarSensor("Number", "No description") },
+                { "CarSensor16", () => new CarSensor("Number", "No description") },
+
+                {"InnerTemperature",() => new TemperatureSensor("Temperature", "No description") },
+                {"HumiditySensor",() => new HumiditySensor("Humidity", "No description") },
 
                 // Add your sensors here
             };
